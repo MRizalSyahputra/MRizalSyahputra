@@ -2,7 +2,7 @@
 
 ## i'm currently running at my school account, so this account will be deactivated someday. when that day come, just go to my main account (link later)
 
-## i'm currently focusing on UI/UX design and multimedia things. but i also has interest at data science (i'm too lazy to code bruh), so yeah
+## in short, i'm focusing for designing (like UI/UX design) and digital multimedia manipulation rather than coding. but i also has interest at data science (sadly, i'm too lazy to code bruh)
 
 <!--
 **MRizalSyahputra/MRizalSyahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
